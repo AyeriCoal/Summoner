@@ -28,7 +28,7 @@ Replace TopBar by Castbar :
 - Summon Received - Reads : "Received" + Ding sound
 
 3 - Request status from SummonsMonitor to implement if it is not already: 
-- Format is:  SummonsList["PlayerName"] is a structure with entries
+Format is:  SummonsList["PlayerName"] is a structure with entries
 -   .name
 -   .status
 -   .warlock
